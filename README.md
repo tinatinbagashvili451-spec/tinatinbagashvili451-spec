@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Tinatin
 
-<!--
-**tinatinbagashvili451-spec/tinatinbagashvili451-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Graphic Designer & UI/UX Designer
+📱 Passionate about creating beautiful and user-friendly digital experiences
+✨ Love working with Figma and Adobe Illustrator
+📍 Georgia
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about graphic design, UI/UX design, and illustration. I enjoy turning ideas into modern, clean, and intuitive designs while continuously improving my skills and learning new design trends.
+
+## 🛠 Skills
+
+- 🎨 Graphic Design
+- 📱 UI/UX Design
+- 🖌️ Figma
+- ✏️ Adobe Illustrator
+- 🖼️ Illustration
+- 🎭 Wireframing
+- 📐 Prototyping
+- 🎨 Design Systems
+
+## 📫 Contact
+
+- Email: tinatinbagashvili451@gmail.com
+
+⭐ Thanks for visiting my profile!
